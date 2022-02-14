@@ -8,5 +8,4 @@ I am adding some coherent input to it.
 
 another update
 
-A new change
-
+another update to test commit amend
